@@ -1,3 +1,6 @@
 from django.contrib import admin
+from .models import Property, Ad, Reservation
 
-# Register your models here.
+admin.site.register(Property)
+admin.site.register(Ad)
+admin.site.register(Reservation)
