@@ -7,8 +7,106 @@
         "check_in": "2023-01-01",
         "check_out": "2023-01-02",
         "guests": 2,
-        "comment": "Beautiful",
-        "total_price": "102.30",
+        "comment": "An excellent place to spend a season",
+        "total_price": 102.30,
+        "created_at": "2023-01-06T17:16:51.102Z",
+        "updated_at": "2023-01-06T17:16:51.102Z"
+    }
+},
+{
+    "model": "app.reservation",
+    "pk": "da1f2080-9916-46a3-9307-0abaca67fdb5",
+    "fields": {
+        "ad": "a948b7bb-3fc6-46a9-917e-b365b68b8be5",
+        "check_in": "2023-01-03",
+        "check_out": "2023-01-05",
+        "guests": 1,
+        "comment": "An excellent place to spend a season",
+        "total_price": 102.30,
+        "created_at": "2023-01-06T17:16:51.102Z",
+        "updated_at": "2023-01-06T17:16:51.102Z"
+    }
+},
+{
+    "model": "app.reservation",
+    "pk": "cf301478-794e-4833-b02a-1506afff2b73",
+    "fields": {
+        "ad": "a948b7bb-3fc6-46a9-917e-b365b68b8be5",
+        "check_in": "2023-01-03",
+        "check_out": "2023-01-05",
+        "guests": 3,
+        "comment": "An excellent place to spend a season",
+        "total_price": 102.30,
+        "created_at": "2023-01-06T17:16:51.102Z",
+        "updated_at": "2023-01-06T17:16:51.102Z"
+    }
+},
+{
+    "model": "app.reservation",
+    "pk": "eaeaa15b-0fe0-4fb0-b18c-1246d4915ba7",
+    "fields": {
+        "ad": "a948b7bb-3fc6-46a9-917e-b365b68b8be5",
+        "check_in": "2023-01-01",
+        "check_out": "2023-01-02",
+        "guests": 4,
+        "comment": "An excellent place to spend a season",
+        "total_price": 102.30,
+        "created_at": "2023-01-06T17:16:51.102Z",
+        "updated_at": "2023-01-06T17:16:51.102Z"
+    }
+},
+{
+    "model": "app.reservation",
+    "pk": "5d09d9fd-d43d-4be0-aaed-7ad74343b087",
+    "fields": {
+        "ad": "e395662a-6d1f-4767-8401-73349255b3d2",
+        "check_in": "2023-01-03",
+        "check_out": "2023-01-05",
+        "guests": 1,
+        "comment": "An excellent place to spend a season",
+        "total_price": 102.41,
+        "created_at": "2023-01-06T17:16:51.102Z",
+        "updated_at": "2023-01-06T17:16:51.102Z"
+    }
+},
+{
+    "model": "app.reservation",
+    "pk": "a73a373a-6c6c-4e46-ae89-33e21e64554d",
+    "fields": {
+        "ad": "e395662a-6d1f-4767-8401-73349255b3d2",
+        "check_in": "2023-01-01",
+        "check_out": "2023-01-02",
+        "guests": 3,
+        "comment": "An excellent place to spend a season",
+        "total_price": 102.41,
+        "created_at": "2023-01-06T17:16:51.102Z",
+        "updated_at": "2023-01-06T17:16:51.102Z"
+    }
+},
+{
+    "model": "app.reservation",
+    "pk": "d7bafeeb-f01e-4b96-8698-5cd422a80303",
+    "fields": {
+        "ad": "c4d2f364-ec56-4796-ab47-0914f195c618",
+        "check_in": "2023-01-03",
+        "check_out": "2023-01-05",
+        "guests": 2,
+        "comment": "An excellent place to spend a season",
+        "total_price": 158.44,
+        "created_at": "2023-01-06T17:16:51.102Z",
+        "updated_at": "2023-01-06T17:16:51.102Z"
+    }
+},
+{
+    "model": "app.reservation",
+    "pk": "34fb30e7-d5ad-4cdb-9583-51c3ba09d711",
+    "fields": {
+        "ad": "c4d2f364-ec56-4796-ab47-0914f195c618",
+        "check_in": "2023-01-01",
+        "check_out": "2023-01-02",
+        "guests": 5,
+        "comment": "An excellent place to spend a season",
+        "total_price": 158.44,
         "created_at": "2023-01-06T17:16:51.102Z",
         "updated_at": "2023-01-06T17:16:51.102Z"
     }

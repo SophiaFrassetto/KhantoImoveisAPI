@@ -28,7 +28,7 @@ class Ad(models.Model):
     property = models.ForeignKey(Property, on_delete=models.CASCADE)
 
     platform_name = models.CharField(max_length=50)
-    platform_tax = models.DecimalField(max_digits=3, decimal_places=2)
+    platform_tax = models.DecimalField(max_digits=5, decimal_places=2)
 
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
