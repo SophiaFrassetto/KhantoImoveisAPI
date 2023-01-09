@@ -23,7 +23,7 @@ Create a Env with python 3.10 and active Env
 ## Routes
 
 - Property:
-  - ```http://127.0.0.1:8000/api/properties/``` **(GET)**
+  - ```http://127.0.0.1:8000/api/properties/``` **(GET, POST)**
   - ```http://127.0.0.1:8000/api/properties/<PK>/``` **(GET, PUT, PATCH, DELETE)**
   - body:
     - ```
@@ -38,7 +38,7 @@ Create a Env with python 3.10 and active Env
 
 
 - AD:
-  - ```http://127.0.0.1:8000/api/ads/``` **(GET)**
+  - ```http://127.0.0.1:8000/api/ads/``` **(GET, POST)**
   - ```http://127.0.0.1:8000/api/ads/<PK>/``` **(GET, PUT, PATCH)**
   - body:
     - ```
@@ -48,7 +48,7 @@ Create a Env with python 3.10 and active Env
             "platform_tax": 2.22,
         }
 - Reservation:
-  - ```http://127.0.0.1:8000/api/reservations/``` **(GET)**
+  - ```http://127.0.0.1:8000/api/reservations/``` **(GET, POST)**
   - ```http://127.0.0.1:8000/api/reservations/<PK>/``` **(GET, DELETE)**
   - body:
     - ```
