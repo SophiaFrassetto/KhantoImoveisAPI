@@ -31,7 +31,7 @@ Create a Env with python 3.10 and active Env
             "name": "Apartamento na Praia",
             "num_bathrooms": 2,
             "accept_animals": false,
-            "cleaning_price": "120.50",
+            "cleaning_price": 120.50,
             "gest_limit": 6,
             "activate_date": "2023-01-01T00:00:00Z",
         }
@@ -45,7 +45,7 @@ Create a Env with python 3.10 and active Env
         {
             "property": "45414529-e862-435c-a899-150d1db4645e",
             "platform_name": "TripAdvisor",
-            "platform_tax": "2.22",
+            "platform_tax": 2.22,
         }
 - Reservation:
   - ```http://127.0.0.1:8000/api/reservations/``` **(GET)**
@@ -58,6 +58,6 @@ Create a Env with python 3.10 and active Env
             "check_out": "2023-01-02",
             "guests": 2,
             "comment": "Beautiful",
-            "total_price": "102.30",
+            "total_price": 102.30,
         }
 
