@@ -16,7 +16,7 @@ Create a Env with python 3.10 and active Env
   - ```python manage.py loaddata ad.json```
   - ```python manage.py loaddata reservation.json```
 
-- For initialize project runL:
+- For initialize project run:
   - ```python manage.py runserver```
 
 
